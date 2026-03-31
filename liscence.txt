@@ -1,0 +1,28 @@
+PROJET : Overgrowth: The beginning of a new are
+AUTEURS : Henri Zeman, Lancelot Zeman
+
+---------------------------------------------------------------------------
+1. CODE SOURCE DU PROJET
+---------------------------------------------------------------------------
+Le code source de ce projet est publié sous la licence GNU General Public 
+License v3.0 ou ultérieure (GPL v3+).
+
+Vous pouvez consulter les termes complets de cette licence sur :
+https://www.gnu.org/licenses/gpl-3.0.html
+
+---------------------------------------------------------------------------
+2. CONTENU TEXTUEL ET DOCUMENTATION
+---------------------------------------------------------------------------
+Les textes, rapports et documentations associés à ce projet sont publiés 
+sous la licence Creative Commons Attribution - Partage dans les Mêmes 
+Conditions 4.0 International (CC BY-SA 4.0).
+
+Vous pouvez consulter les termes complets de cette licence sur :
+https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+
+---------------------------------------------------------------------------
+3. OBJECTIF
+---------------------------------------------------------------------------
+Ces licences ont été choisies afin que le projet puisse être testé, 
+utilisé, adapté et amélioré par l'ensemble de la communauté, dans le 
+respect du règlement des Trophées NSI 2026.
